@@ -1,0 +1,5 @@
+  File "/home/yuki/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg/listener.py", line 12
+    node.get_logger().info("Listen: %s% msg)
+                                           ^
+SyntaxError: EOL while scanning string literal
+
