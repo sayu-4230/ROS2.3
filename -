@@ -1,0 +1,4 @@
+[INFO] [launch]: All log files can be found below /home/yuki/.ros/log/2024-12-05-12-53-30-078369-sayuhata-28004
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [talker-1]: process started with pid [28006]
+[INFO] [listener-2]: process started with pid [28008]

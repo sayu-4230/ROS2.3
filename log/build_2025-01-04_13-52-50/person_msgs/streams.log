@@ -1,0 +1,9 @@
+[0.137s] Invoking command in '/home/yuki/ros2_ws/build/person_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuki/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake --build /home/yuki/ros2_ws/build/person_msgs -- -j12 -l12
+[0.146s] CMake Error at CMakeLists.txt:15 (rosidl_generate_interfaces):
+[0.146s]   Unknown CMake command "rosidl_generate_interfaces".
+[0.146s] 
+[0.146s] 
+[0.147s] -- Configuring incomplete, errors occurred!
+[0.147s] See also "/home/yuki/ros2_ws/build/person_msgs/CMakeFiles/CMakeOutput.log".
+[0.147s] make: *** [Makefile:748: cmake_check_build_system] Error 1
+[0.151s] Invoked command in '/home/yuki/ros2_ws/build/person_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuki/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake --build /home/yuki/ros2_ws/build/person_msgs -- -j12 -l12

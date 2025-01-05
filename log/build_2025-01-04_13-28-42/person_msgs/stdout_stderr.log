@@ -1,0 +1,7 @@
+CMake Error at CMakeLists.txt:16 (rosidl_generate_interfaces):
+  Unknown CMake command "rosidl_generate_interfaces".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/yuki/ros2_ws/build/person_msgs/CMakeFiles/CMakeOutput.log".
+make: *** [Makefile:748: cmake_check_build_system] Error 1
