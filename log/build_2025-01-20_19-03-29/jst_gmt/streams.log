@@ -1,0 +1,30 @@
+[0.707s] Invoking command in '/home/yuki/ros2_ws/src/jst_gmt': PYTHONPATH=/home/yuki/ros2_ws/build/jst_gmt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/jst_gmt build --build-base /home/yuki/ros2_ws/build/jst_gmt/build install --record /home/yuki/ros2_ws/build/jst_gmt/install.log --install-scripts $base/lib/jst_gmt --single-version-externally-managed install_data
+[0.826s] running egg_info
+[0.827s] writing ../../build/jst_gmt/jst_gmt.egg-info/PKG-INFO
+[0.827s] writing dependency_links to ../../build/jst_gmt/jst_gmt.egg-info/dependency_links.txt
+[0.827s] writing entry points to ../../build/jst_gmt/jst_gmt.egg-info/entry_points.txt
+[0.827s] writing requirements to ../../build/jst_gmt/jst_gmt.egg-info/requires.txt
+[0.828s] writing top-level names to ../../build/jst_gmt/jst_gmt.egg-info/top_level.txt
+[0.860s] reading manifest file '../../build/jst_gmt/jst_gmt.egg-info/SOURCES.txt'
+[0.862s] writing manifest file '../../build/jst_gmt/jst_gmt.egg-info/SOURCES.txt'
+[0.862s] running build
+[0.862s] running build_py
+[0.863s] copying jst_gmt/talker.py -> /home/yuki/ros2_ws/build/jst_gmt/build/lib/jst_gmt
+[0.863s] running install
+[0.864s] running install_lib
+[0.865s] copying /home/yuki/ros2_ws/build/jst_gmt/build/lib/jst_gmt/talker.py -> /home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages/jst_gmt
+[0.865s] byte-compiling /home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages/jst_gmt/talker.py to talker.cpython-38.pyc
+[0.866s]   File "/home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages/jst_gmt/talker.py", line 1
+[0.867s]     import rclpy      　  　　　　   #ROS 2のクライアントのためのライブラリ
+[0.867s]                       ^
+[0.867s] SyntaxError: invalid character in identifier
+[0.867s] 
+[0.867s] running install_data
+[0.867s] copying package.xml -> /home/yuki/ros2_ws/install/jst_gmt/share/jst_gmt
+[0.867s] running install_egg_info
+[0.867s] removing '/home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages/jst_gmt-0.0.0-py3.8.egg-info' (and everything under it)
+[0.868s] Copying ../../build/jst_gmt/jst_gmt.egg-info to /home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages/jst_gmt-0.0.0-py3.8.egg-info
+[0.870s] running install_scripts
+[0.886s] Installing talker script to /home/yuki/ros2_ws/install/jst_gmt/lib/jst_gmt
+[0.887s] writing list of installed files to '/home/yuki/ros2_ws/build/jst_gmt/install.log'
+[0.920s] Invoked command in '/home/yuki/ros2_ws/src/jst_gmt' returned '0': PYTHONPATH=/home/yuki/ros2_ws/build/jst_gmt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/jst_gmt build --build-base /home/yuki/ros2_ws/build/jst_gmt/build install --record /home/yuki/ros2_ws/build/jst_gmt/install.log --install-scripts $base/lib/jst_gmt --single-version-externally-managed install_data

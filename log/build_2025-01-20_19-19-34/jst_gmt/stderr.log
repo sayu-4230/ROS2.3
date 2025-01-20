@@ -1,0 +1,5 @@
+  File "/home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages/jst_gmt/talker.py", line 1
+    import rclpy
+                      ^
+SyntaxError: invalid character in identifier
+

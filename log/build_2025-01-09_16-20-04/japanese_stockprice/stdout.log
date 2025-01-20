@@ -1,0 +1,16 @@
+running egg_info
+writing ../../build/japanese_stockprice/japanese_stockprice.egg-info/PKG-INFO
+writing dependency_links to ../../build/japanese_stockprice/japanese_stockprice.egg-info/dependency_links.txt
+writing entry points to ../../build/japanese_stockprice/japanese_stockprice.egg-info/entry_points.txt
+writing requirements to ../../build/japanese_stockprice/japanese_stockprice.egg-info/requires.txt
+writing top-level names to ../../build/japanese_stockprice/japanese_stockprice.egg-info/top_level.txt
+reading manifest file '../../build/japanese_stockprice/japanese_stockprice.egg-info/SOURCES.txt'
+writing manifest file '../../build/japanese_stockprice/japanese_stockprice.egg-info/SOURCES.txt'
+running build
+running build_py
+copying japanese_stockprice/japanese_stockprice.py -> /home/yuki/ros2_ws/build/japanese_stockprice/build/lib/japanese_stockprice
+running install
+running install_lib
+copying /home/yuki/ros2_ws/build/japanese_stockprice/build/lib/japanese_stockprice/japanese_stockprice.py -> /home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages/japanese_stockprice
+byte-compiling /home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages/japanese_stockprice/japanese_stockprice.py to japanese_stockprice.cpython-38.pyc
+running install_data

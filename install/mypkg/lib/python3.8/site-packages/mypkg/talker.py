@@ -17,5 +17,5 @@ def cb():
 
 
 def main():
-    node.create_timer(0.5, cb)
+    nade.create_timer(0.5, cb)
     rclpy.spin(node)

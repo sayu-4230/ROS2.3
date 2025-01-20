@@ -1,0 +1,31 @@
+[0.899s] Invoking command in '/home/yuki/ros2_ws/src/mypkg': PYTHONPATH=/home/yuki/ros2_ws/build/japanese_stockprice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/japanese_stockprice build --build-base /home/yuki/ros2_ws/build/japanese_stockprice/build install --record /home/yuki/ros2_ws/build/japanese_stockprice/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed install_data
+[1.067s] running egg_info
+[1.068s] creating ../../build/japanese_stockprice/japanese_stockprice.egg-info
+[1.068s] writing ../../build/japanese_stockprice/japanese_stockprice.egg-info/PKG-INFO
+[1.069s] writing dependency_links to ../../build/japanese_stockprice/japanese_stockprice.egg-info/dependency_links.txt
+[1.069s] writing entry points to ../../build/japanese_stockprice/japanese_stockprice.egg-info/entry_points.txt
+[1.069s] writing requirements to ../../build/japanese_stockprice/japanese_stockprice.egg-info/requires.txt
+[1.069s] writing top-level names to ../../build/japanese_stockprice/japanese_stockprice.egg-info/top_level.txt
+[1.073s] writing manifest file '../../build/japanese_stockprice/japanese_stockprice.egg-info/SOURCES.txt'
+[1.096s] reading manifest file '../../build/japanese_stockprice/japanese_stockprice.egg-info/SOURCES.txt'
+[1.097s] writing manifest file '../../build/japanese_stockprice/japanese_stockprice.egg-info/SOURCES.txt'
+[1.097s] running build
+[1.097s] running build_py
+[1.098s] creating /home/yuki/ros2_ws/build/japanese_stockprice/build
+[1.099s] creating /home/yuki/ros2_ws/build/japanese_stockprice/build/lib
+[1.099s] creating /home/yuki/ros2_ws/build/japanese_stockprice/build/lib/japanese_stockprice
+[1.099s] copying japanese_stockprice/japanese_stockprice.py -> /home/yuki/ros2_ws/build/japanese_stockprice/build/lib/japanese_stockprice
+[1.099s] copying japanese_stockprice/__init__.py -> /home/yuki/ros2_ws/build/japanese_stockprice/build/lib/japanese_stockprice
+[1.099s] running install
+[1.100s] running install_lib
+[1.101s] creating /home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages/japanese_stockprice
+[1.101s] copying /home/yuki/ros2_ws/build/japanese_stockprice/build/lib/japanese_stockprice/japanese_stockprice.py -> /home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages/japanese_stockprice
+[1.101s] copying /home/yuki/ros2_ws/build/japanese_stockprice/build/lib/japanese_stockprice/__init__.py -> /home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages/japanese_stockprice
+[1.102s] byte-compiling /home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages/japanese_stockprice/japanese_stockprice.py to japanese_stockprice.cpython-38.pyc
+[1.103s] byte-compiling /home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages/japanese_stockprice/__init__.py to __init__.cpython-38.pyc
+[1.103s] running install_data
+[1.103s] creating /home/yuki/ros2_ws/install/japanese_stockprice/share/ament_index
+[1.103s] creating /home/yuki/ros2_ws/install/japanese_stockprice/share/ament_index/resource_index
+[1.104s] creating /home/yuki/ros2_ws/install/japanese_stockprice/share/ament_index/resource_index/packages
+[1.104s] error: can't copy 'resource/japanese_stockprice': doesn't exist or not a regular file
+[1.120s] Invoked command in '/home/yuki/ros2_ws/src/mypkg' returned '1': PYTHONPATH=/home/yuki/ros2_ws/build/japanese_stockprice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yuki/ros2_ws/install/japanese_stockprice/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/japanese_stockprice build --build-base /home/yuki/ros2_ws/build/japanese_stockprice/build install --record /home/yuki/ros2_ws/build/japanese_stockprice/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed install_data

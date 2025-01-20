@@ -1,0 +1,5 @@
+  File "/home/yuki/ros2_ws/install/jst_gmt/lib/python3.8/site-packages/jst_gmt/listener.py", line 12
+    node.get_logger().info("Listen: %d" % msg.data)
+                                                    　　^
+SyntaxError: invalid character in identifier
+

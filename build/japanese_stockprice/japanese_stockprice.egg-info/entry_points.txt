@@ -1,0 +1,3 @@
+[console_scripts]
+japanese_stockprice = japanese_stockprice.japanese_stockprice:main
+

@@ -1,0 +1,6 @@
+source;share/jst_gmt/hook/pythonpath.ps1
+source;share/jst_gmt/hook/pythonpath.dsv
+source;share/jst_gmt/hook/pythonpath.sh
+source;share/jst_gmt/hook/ament_prefix_path.ps1
+source;share/jst_gmt/hook/ament_prefix_path.dsv
+source;share/jst_gmt/hook/ament_prefix_path.sh
